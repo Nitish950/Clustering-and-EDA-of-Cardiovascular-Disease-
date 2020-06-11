@@ -2,14 +2,14 @@
 
 Cardiovascular disease (CVD) is a class of diseases that involve the heart or blood vessels. CVD includes coronary artery diseases (CAD) such as angina and myocardial infarction.Cardiovascular diseases are the leading cause of death in all areas of the world. Together CVD resulted in 17.9 million deaths in 2015, up from 12.3 million (25.8%) in 1990.
 
-The dataset consists of 70,000 records of patients data in 12 features (age, gender, systolic blood pressure, diastolic blood pressure,glucose,smoke,alcohol intake, physical activity) The target class "cardio" equals to 1, when patient has cardiovascular desease, and it's 0, if patient is healthy
+The dataset consists of 70,000 records of patient's data in 12 features. The target class "cardio" equals to 1,  when patient has cardiovascular desease, and it's 0, if patient is healthy.
 
 Following analysis was carried out in this project:
 
 * Worked with pandas to carry out initial analysis
 * Carried out data cleaning by removing outliers and incorrect data
 * Used seaborn and matplotlib libraries for visualization
-* Utilized Sklearn and KMeans for clustering of the dataset.
+* Utilized Sklearn and KMeans for clustering of the dataset
 * Calculated BMI and it's relation with CVD and age
 * Established relation between CVD and alcohol consumption in males and females
 
